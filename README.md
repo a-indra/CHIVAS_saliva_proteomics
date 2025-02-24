@@ -39,7 +39,7 @@ Version 1.1
             └── 2_48h_heatmap.py
             └── 3_per_protein_heatmaps.py
             └── 4_per_protein_lineplots.py
-    └── .gitignore.txt
+    └── .gitignore
     └── README.md
     └── requirements.txt
 ```
