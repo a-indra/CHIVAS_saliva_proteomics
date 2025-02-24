@@ -1,0 +1,11 @@
+# Data files
+*.xlsx
+*.csv
+*.tsv
+
+# Python files
+__pycache__/
+*.py[cod]
+
+# Excel temporary files
+~$*
